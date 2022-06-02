@@ -1,0 +1,2 @@
+body,ul{margin:0}ul{padding:0;list-style:none}.comment{padding:8px;width:250px;border:2px solid #6495ed}.comment-list__item{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));grid-gap:20px;gap:20px}.user-info__item{margin:0}.user-info__item--last{margin-bottom:24px}.post-info{padding-left:32px}.post-list__item{padding:16px;border:8px solid #6495ed;border-bottom:none;background-color:#faebd7;border-collapse:collapse}.post-list__item:last-child{border-bottom:8px solid #6495ed}
+/*# sourceMappingURL=main.780fd8f7.chunk.css.map */
